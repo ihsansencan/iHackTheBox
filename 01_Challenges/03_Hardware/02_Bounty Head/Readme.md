@@ -1,2 +1,1 @@
 # # 02_Bounty Head
-* * *

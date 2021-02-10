@@ -1,2 +1,1 @@
 # # 04_Flippin Bank
-* * *

@@ -1,2 +1,1 @@
 # # 06_Illumination
-* * *

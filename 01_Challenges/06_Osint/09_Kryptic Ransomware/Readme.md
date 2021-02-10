@@ -1,2 +1,1 @@
 # # 09_Kryptic Ransomware
-* * *

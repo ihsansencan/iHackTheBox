@@ -1,2 +1,1 @@
 # # 12_Sick Teacher
-* * *
